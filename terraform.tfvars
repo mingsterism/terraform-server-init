@@ -1,0 +1,5 @@
+private_key_path = "./.ssh/key001"
+public_key_path = "./.ssh/key001.pub"
+key_name = "key001"
+instance_name = "React-Coder-Lands"
+ami = "ami-85fd92e6"
